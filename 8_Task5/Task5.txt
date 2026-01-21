@@ -1,0 +1,9 @@
+Explore different types of agentic ai framework.
+
+1. Single Agent
+2. Planner–Executor
+3. Multi-Agent
+4. Autonomous
+5. Graph-Based
+6. Tool-First
+7. Embodied
